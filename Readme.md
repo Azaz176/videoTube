@@ -12,3 +12,6 @@ This project is a comprehensive video-sharing platform where users can upload, w
 - **Video Recommendations**: The platform provides personalized video recommendations based on user behavior and preferences.
 - **Video Analytics:** Creators can access detailed analytics for their uploaded videos, including views, likes, comments, and watch time.
 - **Tweet Section:** A unique section where users can tweet and engage in discussions.
+
+## Live Video link:
+[**CLICK HERE FOR VIDEO**](https://youtu.be/Q246r98AExY)
