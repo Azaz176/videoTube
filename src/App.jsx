@@ -35,7 +35,6 @@ function App() {
       </div>
     );
 
-  // TODO: Apply Validations and AJAX on all Forms
 
   return (
     <>
