@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/a2862e8c-9592-45a4-943e-abe8f162adc9)# **VideoTube- Video Sharing and Social Platform**
+# **VideoTube- Video Sharing and Social Platform**
 This project is a comprehensive video-sharing platform where users can upload, watch, and interact with videos. It also includes a social interaction feature through a tweet section, allowing users to share their thoughts and engage in discussions.
 
 ## Features
