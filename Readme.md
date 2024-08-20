@@ -13,6 +13,9 @@ This project is a comprehensive video-sharing platform where users can upload, w
 - **Video Analytics:** Creators can access detailed analytics for their uploaded videos, including views, likes, comments, and watch time.
 - **Tweet Section:** A unique section where users can tweet and engage in discussions.
 
+## Live Link:
+[CLICK HERE](https://frontend-delta-lilac-48.vercel.app/)
+
 ## Live Video link:
 [**CLICK HERE FOR VIDEO**](https://youtu.be/Q246r98AExY)
 
